@@ -1,6 +1,6 @@
-# Alura Space
+# Buscador de Cursos
 
-   projeto é o manejo de arquivos estáticos com React.js.
+   O buscador de cursos é um projeto criado durante um curso na plataforma Alura para aaprimorar os conhecimentos em PHP, com o código acessamos a página da Alura e buscamos e listamos alguns cursos presentes na plataforma.
   
 ## 🚀 Começando
 
@@ -10,7 +10,7 @@ Essas intruções permitirão que você obtenha uma cópia do projeto em operaç
 
 De que coisas você precisa para instalar o software e como instalá-lo?
 
-* É necessario a instalação da extensão para o Node.js no Visual Studio Code.
+* É necessario ter o PHP instalado em sua máquina.
 
 ### 🔧 Instalação
 
@@ -19,18 +19,14 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 * No prompt da paleta de comandos, insira <b>gitcl</b>, selecione o comando Git: <b>Clone</b> e pressione <b>Enter</b>.
 * Quando for solicitada a URL do Repositório, selecione Clonar do GitHub e pressione <b>Enter</b>.
 * Se for solicitado que você entre no GitHub, conclua o processo de entrada.
-* Insira https://github.com/GABRIEL-ASSYS/Alura-Space no campo URL do Repositório.
+* Insira https://github.com/GABRIEL-ASSYS/Buscador-Cursos-Alura no campo URL do Repositório.
 * Selecione (ou crie) o diretório local no qual você deseja clonar o projeto.
 * Quando você receber a notificação perguntando se você deseja abrir o repositório clonado, selecione <b>Abrir</b>.
 * Para rodar o projeto é necessário abrir o terminal de comando no Visual Studio, caso ainda não tenha usado o Node.js executar o comando ```npm install```,  depois de instalado executar ```npm start```, e ele abrirá uma aba em seu navegador padrão.
 
-## 🛠️ Construído com <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+## 🛠️ Construído com  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
 
-* [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) - Para o marcação da página
-* [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) - Para a estilização da página
-* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Para dinamização da página
-* [Node.js](https://nodejs.org/en/about/)
-* [React.js](https://pt-br.reactjs.org) - Biblioteca JavaScript
+* [PHP](https://www.php.net/docs.php) - Linguagem utilizada para a lógica
 
 ## ✒️ Autores
 
